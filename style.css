@@ -1,1 +1,54 @@
-
+#testi-slider.owl-carousel {
+    margin: 25px 0 0;
+}
+#testi-slider.owl-carousel .owl-item img {
+    position:  absolute;
+    left:  0;
+    right:  0;
+    top: 0px;
+}
+#testi-slider.owl-carousel .owl-item .innr {
+    background-color:  #fff;
+    padding: 50px 0 15px;
+}
+#testi-slider.owl-carousel .owl-item .innr p {
+    padding-bottom: 0px;
+}
+#testi-slider.owl-carousel .owl-item {
+    padding: 50px 0 0;
+}
+#testi-slider.owl-carousel h5 {
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+    font-size: 16px;
+    font-weight: 800;
+}
+#testi-slider.owl-carousel .owl-item img {
+    width:  auto;
+    margin:  0 auto;
+}
+#testi-slider.owl-carousel .owl-nav {
+    display:  none;
+}
+#testi-slider.owl-carousel .owl-dots {
+    display:  block;
+    margin: 30px 0 0;
+}
+#testi-slider.owl-carousel button.owl-dot {
+    background-color: transparent;
+    border:  1px solid #fff;
+	width: 7px;
+    height: 7px;
+    margin: 0 2px;
+    border-radius: 50px;
+    
+}
+#testi-slider.owl-carousel button.owl-dot.active {
+   background-color: #fff; 
+}
+#testi-slider.owl-carousel .owl-item.active {
+    opacity: 0.5;
+}
+#testi-slider.owl-carousel .owl-item.active.center {
+    opacity: 1;
+}

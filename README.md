@@ -1,1 +1,1 @@
-wordpress cutome post Testimonials slider
+WordPress custom post testimonials slider

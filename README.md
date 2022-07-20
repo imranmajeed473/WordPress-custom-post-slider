@@ -1,4 +1,4 @@
 WordPress custom post testimonials slider
-new1
+new2
 
 ![Screenshot](screenshort.png)
